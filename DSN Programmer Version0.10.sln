@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30523.141
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "GBX_DSN_UI", "GBX_DSN_UI.pyproj", "{44B3DE98-F6AA-452D-895C-B4FE18EBCA2A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{44B3DE98-F6AA-452D-895C-B4FE18EBCA2A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{44B3DE98-F6AA-452D-895C-B4FE18EBCA2A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B84D9825-9E22-44AF-A8C9-58BEED69ED55}
+	EndGlobalSection
+EndGlobal
